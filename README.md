@@ -1,1 +1,1 @@
-# Java-Game-TypeRacer
+# Java-Application-MultiThreadChatting
