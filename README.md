@@ -8,3 +8,4 @@ I
 fine
 so
 what is good my man
+gr 12 is lazy
