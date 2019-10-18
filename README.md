@@ -22,3 +22,4 @@ are you stupid my man?
 algorithm,s
 greedy suanfa
 sick man this is the best so far
+I was reading some shit
