@@ -16,7 +16,7 @@ dsa
 8
 the map right nopw
 that is nice
-totally
+sadf fdsa
 link is up there my friend?
 are you stupid my man?
 algorithm,s
