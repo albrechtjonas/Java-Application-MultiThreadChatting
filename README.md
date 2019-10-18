@@ -21,3 +21,4 @@ link is up there my friend?
 are you stupid my man?
 algorithm,s
 greedy suanfa
+sick man this is the best so far
