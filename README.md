@@ -26,3 +26,4 @@ I was reading some shitI don;t know
 I mean yes
 that is so cool
 relentless
+this is a bad boy move my guy
