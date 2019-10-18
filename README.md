@@ -19,3 +19,4 @@ that is nice
 totally
 link is up there my friend?
 are you stupid my man?
+algorithm,s
