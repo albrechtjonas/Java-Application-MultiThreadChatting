@@ -22,6 +22,4 @@ are you stupid my man?
 algorithm,s
 greedy suanfa
 sick man this is the best so far
-I was reading some shit
-4231
-yes dude
+I was reading some shitI don;t know
