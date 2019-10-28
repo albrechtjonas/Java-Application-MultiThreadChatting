@@ -14,6 +14,8 @@
 
 ![Screen Shot 2019-10-27 at 18 38 07](https://user-images.githubusercontent.com/49256436/67645981-0404c280-f8e9-11e9-91f1-ad293b363105.png)
 
+![Screen Shot 2019-10-27 at 18 39 42](https://user-images.githubusercontent.com/49256436/67646006-2c8cbc80-f8e9-11e9-9638-8f6ab5f71f88.png)
+
 ## How To Use
 
 - Type join in the textfield to join a server (address and port is needed for sockets connections)
