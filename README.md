@@ -12,6 +12,8 @@
 
 - Open terminal and type java -jar (directory of Client.jar and Server.jar files)
 
+![Screen Shot 2019-10-27 at 18 38 07](https://user-images.githubusercontent.com/49256436/67645981-0404c280-f8e9-11e9-91f1-ad293b363105.png)
+
 ## How To Use
 
 - Type join in the textfield to join a server (address and port is needed for sockets connections)
