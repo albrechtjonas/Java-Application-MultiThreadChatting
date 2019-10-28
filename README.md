@@ -14,25 +14,19 @@
 
 ## How To Use
 
+- Type join in the textfield to join a server (address and port is needed for sockets connections)
+
+- After joined a server, you can chat with your friends by texting in the textfield
+
 ## Features
 
-- BFS breath first search path finding algorithm to find the shortest path
+- Server would detect disconnections and stop recieving and sending message to it
 
-- DFS depth first search path back trace algorithm to generate random maze
+- Client would detect disconnections with the server and will exit the program
 
 ## ScreenShot
 
-![Screen Shot 2019-10-25 at 22 33 35](https://user-images.githubusercontent.com/49256436/67614780-89686580-f777-11e9-96d4-1f7d11066f65.png)
-
-![Screen Shot 2019-10-25 at 22 36 02](https://user-images.githubusercontent.com/49256436/67614805-d9dfc300-f777-11e9-9db6-c5c14b85f839.png)
-
-![Screen Shot 2019-10-25 at 22 41 07](https://user-images.githubusercontent.com/49256436/67614847-989be300-f778-11e9-8fe4-faed870b3a8c.png)
-
-![Screen Shot 2019-10-26 at 20 32 54](https://user-images.githubusercontent.com/49256436/67629173-d3ad1d80-f82f-11e9-943a-40b2990b88d1.png)
-
-![Screen Shot 2019-10-26 at 20 34 26](https://user-images.githubusercontent.com/49256436/67629188-0eaf5100-f830-11e9-9656-324f43caddda.png)
-
-# For More Algorithms, Games And Coding Projects
+# For More Applications, Games And Coding Projects
 
 # Check Out My Github Account dominicjiang
 
