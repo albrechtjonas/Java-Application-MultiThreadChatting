@@ -18,9 +18,8 @@ public class Server {
 	
 	private Server() {
 		try {
-			serverSocket=new ServerSocket(7206);
-			String localAddress=serverSocket.getLocalSocketAddress().toString();
-			System.out.println("Address: "+localAddress.substring(localAddress.indexOf("/")+1));
+			serverSocket=new ServerSocket((int)(Math.random()*6000)+4000);
+			System.out.println("Address: "+serverSocket.getInetAddress());
 			System.out.println("Port: "+serverSocket.getLocalPort());
 		}catch(Exception exception) {
 			System.out.println("Device does not support hosting");
