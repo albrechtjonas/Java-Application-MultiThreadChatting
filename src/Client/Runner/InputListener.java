@@ -31,7 +31,10 @@ public class InputListener implements Runnable {
 					ObjectInputStream input=new ObjectInputStream(client.getSocket().getInputStream());
 					client.getWindow().setText(client.getWindow().getText()+String.valueOf(input.readObject())+"\n");
 					client.getWindow().getTextArea().setText(client.getWindow().getText());
-				}catch(Exception exception) {}
+				}catch(Exception exception) {
+					System.out.println("Server is closed");
+					System.exit(0);
+				}
 			}
 		}
 	}
